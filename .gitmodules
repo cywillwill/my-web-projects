@@ -1,0 +1,3 @@
+[submodule "emojifacesdapp"]
+	path = emojifacesdapp
+	url = https://github.com/codingwithdidem/emojifacesdapp.git
